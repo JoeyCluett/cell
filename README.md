@@ -1,3 +1,9 @@
+# This page has moved
+
+*This repo has been moved to https://gitlab.com/cell_lang/cell (because GitLab is at least partially Free Software)*
+
+*This file is at https://gitlab.com/cell_lang/cell/blob/master/README.md*
+
 # Cell Elementary Learning Language
 
 Cell is a minimally simple programming language designed to demonstrate how to
